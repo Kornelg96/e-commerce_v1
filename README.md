@@ -1,3 +1,5 @@
+Projekt sklepu e-commerce - Front-end przy użyciu React. Jest to wersja z plikiem danych imitującym dane odebrane z servera.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
