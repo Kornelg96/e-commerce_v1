@@ -3,4 +3,3 @@ Aby uruchomić należy:
 1) pobrac repozytorium lub sklonować poprzez git clone
 2) pobrać zależności poleceniem np yarn
 3) w folderze client uruchomić polecenie np yarn start
-4) w folderze server uruchomić polecenie np yarn start
